@@ -1,0 +1,22 @@
+
+img {display:block;
+     margin-left:auto;
+     margin-right:auto;}
+	 
+	 
+body{
+	background-image:ur("EDU.jpeg");
+	background-repeat: no repeat;
+	background-attachment:fixed;
+	background-color :100% 100%;
+}
+
+ul {
+	list-style-type:none;
+   }
+   
+ul li{
+	display:inline-block;
+	padding:10px;
+	border:5px solid black;
+}
