@@ -8,12 +8,12 @@ im{margin-left : auto; margin-right:auto; display:block ;}
 p{text-align: center;}
 </style>
 
-<body background = "C:\Users\NUC\Desktop\BIT 2 - A Day\DACILLO\DACILLO HTML\666.jpeg">
+<body background = "666.jpeg">
 
 <ul>
-<li><a href="file:///C:/Users/NUC/Desktop/BIT%202%20-%20A%20Day/DACILLO/DACILLO%20HTML/1234edu.htm">back to main page</a> </li>
+<li><a href="index.html">back to main page</a> </li>
 
-<center><img src="C:\Users\NUC\Desktop\BIT 2 - A Day\DACILLO\DACILLO HTML\666.jpeg" style="width :500px; height: 500px">
+<center><img src="666.jpeg" style="width :500px; height: 500px">
 <p><font color=white> LAMBO FI </p> 
 <p><font color=white> price : php 500.000 </p> 
 <p><font color=white> color gray fi </p> 
